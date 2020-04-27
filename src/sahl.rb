@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# The SAHL transpiler 2.1.1
+# The SAHL transpiler 2.2.0
 # Author: Luke (@curlpipe)
 # Date: April 2020
 
